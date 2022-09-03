@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolewallace09/team-profile-generator.git"
+    "url": "git+https://oszi123.github.io/team-profile-generator/"
   },
-  "author": "Nicole Wallace",
+  "author": "Oscar Bonilla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicolewallace09/team-profile-generator/issues"
+    "url": "https://oszi123.github.io/team-profile-generator/"
   },
-  "homepage": "https://github.com/nicolewallace09/team-profile-generator#readme",
+  "homepage": "https://oszi123.github.io/team-profile-generator/",
   "devDependencies": {
     "jest": "^26.0.1"
   },
